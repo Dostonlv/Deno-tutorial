@@ -4,8 +4,8 @@
 // const data = await Deno.readFile('readme.txt');
 // console.log(decoder.decode(data));
 
-const data = await Deno.readTextFile('readme.txt');
-console.log(data);
+const delta = await Deno.readTextFile('readme.txt');
+console.log(delta);
 
 
 
