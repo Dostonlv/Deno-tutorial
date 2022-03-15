@@ -1,0 +1,28 @@
+[
+{
+    "name": "Rey",
+    "age": 15,
+    "belt": "white"
+},
+{
+    "name": "Finn",
+    "age": 18,
+    "belt": "yellow"
+},
+{
+    "name": "Frodo",
+    "age": 33,
+    "belt": "green"
+},
+{
+    "name": "Samwise",
+    "age": 38,
+    "belt": "blue"
+},
+{
+    "name": "Gandalf",
+    "age": 2020,
+    "belt": "white"
+}
+]
+
